@@ -66,7 +66,6 @@ header {
     color: var(--Mediumgray);
     transition: color 0.3s;
     cursor: pointer;
-    outline: none;
 }
 
 .menubar .nav-links, .right-side-btns {
@@ -77,12 +76,10 @@ a {
     text-decoration: none;
     color: var(--Mediumgray)
     color 0.3s;
-    outline: none;
 }
 
 li {
     list-style: none;
-    outline: none;
 }
 
 .nav-links > li {
@@ -93,7 +90,6 @@ li {
     color: var(--Mediumgray);
     transition: color 0.3s;
     cursor: pointer;
-    outline: none;
 }
 
 .nav-links li:hover{
@@ -138,7 +134,6 @@ li {
     text-align: left;
     margin: .5em 0;
     padding: .3em 0;
-    outline: none;
 }
 
 .feature .arrowup {
@@ -155,7 +150,6 @@ li {
     border: 2px solid var(--Mediumgray);
     border-radius: 10px;
     transition: border 0.3s;
-    outline: none;
 }
 
 .reg-btn:hover {
